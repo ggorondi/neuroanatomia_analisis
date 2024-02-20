@@ -1,2 +1,2 @@
 # neuroanatomia_analisis
-simple data analysis for neuroscience.
+Simple data analysis for 'Neuroscience' course in University.
